@@ -88,6 +88,7 @@ com.dfjz.moba
 com.dgames.g15002002
 com.dragonli.projectsnow
 com.dts.freefireth
+com.dts.freefiremax
 com.ea.game.pvz2_row
 com.ea.games.r3
 com.epicgames.fortnite
@@ -149,6 +150,9 @@ com.miniworldgame.creata.vn
 com.miraclegames.farlight84
 com.mobile.legends
 com.modx.daluandou
+com.MA.Polyfield
+com.CubeSofware.BattleOfWarships
+com.gaijingames.wtm
 com.mojang.minecraftpe
 com.movtery.zalithlauncher
 com.nanostudios.games.twenty.minutes
